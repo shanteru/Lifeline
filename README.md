@@ -1,3 +1,3 @@
 # Team IdleG
-Code4Life Hackthon 2020-Roche
-_Our solution - Lifeline
+Code4Life Hackthon 2020-Roche 
+Our solution - Lifeline
